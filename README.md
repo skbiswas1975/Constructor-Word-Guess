@@ -1,7 +1,4 @@
-Constructor-Word-Guess
-Game Information: This is a node.js based application with interactive prompts on the command-line. Test your knowledge of the 54 African Countries. Good luck and enjoy the game!
-The game requires inquirer or prompt npm packages.
-Letter.js: Contains a constructor, Letter. This constructor displays a blank placeholder depending on whether or not the user has guessed the letter.
+Constructor-Word-Guess Game Information: This is a node.js based application with interactive prompts on the command-line. Test your knowledge of the 54 Asian Countries. Good luck and enjoy the game! The game requires inquirer or prompt npm packages. Letter.js: Contains a constructor, Letter. This constructor displays a blank placeholder depending on whether or not the user has guessed the letter.
 
 Word.js: Contains a constructor, Word that depends on the Letter constructor. This is used to create an object representing the current word the user is attempting to guess.
 
@@ -16,4 +13,3 @@ Letter.js should not require any other files.
 Word.js should only require Letter.js
 
 Screenshot Images.
-
